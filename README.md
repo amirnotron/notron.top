@@ -60,6 +60,5 @@ This page relies on a single **User ID** and a **Background Image URL** for setu
 
 ## 🤝 Contact
 
-* **Discord ID (Lanyard Source):** `634488416771244076`
+* **Discord:** `https://discordapp.com/users/634488416771244076`
 * **GitHub:** [@amirnotron](https://github.com/amirnotron)
-* *Add your preferred contact method here (e.g., Email, LinkedIn, etc.)*
